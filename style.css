@@ -1,0 +1,62 @@
+body
+{
+margin:0px;
+padding:0px;
+font-family:arial;
+}
+
+#header
+{
+	background-color: #00BCD4;
+    height: 89px;
+    border: 0px;
+    margin: 0px;
+}
+#logo
+{
+    background-image: url(images/logo.jpg);
+    width: 200px;
+    height: 89px;
+    display: block;
+    background-size: 100% 100%;
+    float: left;
+}
+#menu {
+    float: right;
+    line-height: 89px;
+    direction: rtl;
+    background-color: #00bcd4;
+    height: 89px;
+}
+#menu a
+{
+	color:black;
+	margin-right:15px;
+	text-decoration: none;
+}
+.section
+{
+	margin-top:60px;
+	margin-bottom:60px;
+}
+.section .text
+{
+    width: 61%;
+    word-break: break-all;
+    padding: 15px 15px 15px 15px;
+    direction: rtl;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section h2 {
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+} 
+
+.section h2 span { 
+    background:#fff; 
+    padding:0 10px; 
+}
