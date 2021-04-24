@@ -1,4 +1,4 @@
-# https://shaharhaza.github.io/arik.github.io/
+# https://shaharhaza.github.io/arik/
 <br />
 Website: About arik einstein
 <br />
